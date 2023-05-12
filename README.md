@@ -5,7 +5,7 @@ Using Python,SQL, and Tableau to explore datasets about books from goodreads.
 ## Table of Contents
   - [Introduction](#Introduction)
   - [Set Up](#Set Up)
-  - [Data Exploration](#Data Exploration)
+  - [Data Exploration](#Data #Exploration)
   - [Tableau](#Tableau)
 
 ## Introduction

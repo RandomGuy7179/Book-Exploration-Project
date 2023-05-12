@@ -27,4 +27,4 @@ For my data exploration, I used several stored procedure to have reusable code t
 
 ## Tableau
 
-With the tables I created I moved onto Tableau and created a dashboard that allows the user to filter the visuals by the top genres,books, and authors. I used visual such as a piechart, barcharts, packed bubbles, and treemap to allow viewers to easily see what book or author was rated higher based on a criteria. You can view the dashboard [here](https://public.tableau.com/app/profile/hector.penado.jr/viz/BookDashboard_16825705155710/Dashboard1).
+With the tables I created I moved onto Tableau and created a dashboard that allows the user to filter the visuals by the top genres,books, and authors. I used visual such as a piechart, barcharts, packed bubbles, and a treemap to allow viewers to easily see what book or author was rated higher based on a criteria. You can view the dashboard [here](https://public.tableau.com/app/profile/hector.penado.jr/viz/BookDashboard_16825705155710/Dashboard1).
